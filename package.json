@@ -13,7 +13,7 @@
     "postinstall": "npm run build:prod"
   },
   "repository": {
-    "url": "https://github.com/vladotesanovic/angular2-express-slim"
+
   },
   "dependencies": {
 
